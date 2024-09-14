@@ -1,0 +1,1 @@
+ Developed a web application that tracks and manages stock portfolios with real-time data retrieval using APIs. The hardest part was efficiently handling large datasets and ensuring seamless integration with real-time APIs while maintaining high performance
